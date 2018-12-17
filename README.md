@@ -1,6 +1,6 @@
 # Sitecore run tests on publish
 
-- Run UI tests (via cypress test runner - cypress.io) on a publish to staging publishing target.
+- Run UI tests (via cypress test runner - http://cypress.io) on a publish to staging publishing target.
 - Tests validate the publish has not broken key areas of the website.
 - If a content editor then wishes to publish to a live target they have an indication that the latest changes will not have an adverse affect on the site.
 
