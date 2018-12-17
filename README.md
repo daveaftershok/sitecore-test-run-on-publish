@@ -10,9 +10,9 @@
 
 This code requires cypress-node-api-windows (https://github.com/daveaftershok/cypress-node-api-windows) to be running.
 
-### To setup:
+## To setup:
 
-Pick the correct version of publish.js based on your Sitecore version. If you version isn't support take the code from Sitecore 9 and update your sitecore\shell\Applications\Dialogs\Publish\publish.js with the code.
+Pick the correct version of publish.js and overwrite the version in your sitecore solution. Pick the correct file based on your Sitecore version. If you version isn't support take the code from Sitecore 9 and update your sitecore\shell\Applications\Dialogs\Publish\publish.js with the code.
 
 ## To configure and run:
 
