@@ -4,6 +4,7 @@
 - Tests validate the publish has not broken key areas of the website.
 - If a content editor then wishes to publish to a live target they have an indication that the latest changes will not have an adverse affect on the site.
 
+![howitworks](https://raw.githubusercontent.com/daveaftershok/sitecore-test-run-on-publish/master/result.gif)
 
 
 ## Dependencies
